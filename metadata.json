@@ -1,0 +1,6 @@
+{
+  "name": "Strata — AI Budget Allocation Advisor",
+  "description": "AI-powered business budget allocation, real-time drift detection, and scenario forecasting for finance leaders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
